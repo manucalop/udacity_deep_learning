@@ -4,10 +4,24 @@ I gathered all my submissions to the Udacity Deep Learning Nanodegree program in
 
 ## Project Submissions:
 
-1. Build a Neural Network from Scratch and use it to predict the demand of a bike-sharing business: Click [here](src/bike_sharing/Predicting_bike_sharing_data.ipynb)
-2. Landmark Classification and Tagging with Convolutional Neural Networks (CNNs): Click [here](src/landmark_classification/landmark.ipynb)
-3. TV Scrpit Generation using Recurrent Neural Networks (RNNs): Click [here](src/tv_script_generation/dlnd_tv_script_generation.ipynb)
-4. Face Generation using Generative Adversarial Networks (GANs): Click [here](src/face_generation/dlnd_face_generation.ipynb)
-5. Web App for Sentiment Analysis using AWS SageMaker: Click [here](src/sagemaker_sentiment_analysis/sagemaker_project.ipynb)
+1. Build a Neural Network from Scratch and use it to predict the demand of a bike-sharing business: 
+
+Jupyter Notebook [here](src/bike_sharing/Predicting_bike_sharing_data.ipynb)
+
+2. Landmark Classification and Tagging with Convolutional Neural Networks (CNNs): 
+
+Jupyter Notebook [here](src/landmark_classification/landmark.ipynb)
+
+3. TV Scrpit Generation using Recurrent Neural Networks (RNNs): 
+
+Jupyter Notebook [here](src/tv_script_generation/dlnd_tv_script_generation.ipynb)
+
+4. Face Generation using Generative Adversarial Networks (GANs): 
+
+Jupyter Notebook [here](src/face_generation/dlnd_face_generation.ipynb)
+
+5. Web App for Sentiment Analysis using AWS SageMaker: 
+
+Jupyter Notebook [here](src/sagemaker_sentiment_analysis/sagemaker_project.ipynb)
 
 
